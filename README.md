@@ -32,8 +32,8 @@ Quando a classe tema-escuro está presente no <body>, o CSS aplica as caracterí
 
 📁 projeto/
 ├── 📄 index.html
-├── 📄 style.css
-└── 📄 script.js
+├── 📄 main.css
+└── 📄 app.js
 
 🚀 Como executar
 
